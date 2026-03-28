@@ -1,0 +1,73 @@
+# dependencies
+
+/node_modules
+/.pnp
+.pnp.js
+
+# next.js
+
+/.next/
+/out/
+
+# production
+
+/build
+
+# misc
+
+.DS_Store
+Thumbs.db
+
+# logs
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# env files
+
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# vercel
+
+.vercel
+
+# typescript
+
+*.tsbuildinfo
+
+# coverage
+
+/coverage
+
+# IDE / Editor
+
+.vscode/
+.idea/
+
+# OS files
+
+*.swp
+*.swo
+
+# lock files (optional - if you want to ignore)
+
+# package-lock.json
+
+# yarn.lock
+
+# pnpm-lock.yaml
+
+# public uploads (optional)
+
+# /public/uploads
+
+# cache
+
+.cache/
+.next/cache/
